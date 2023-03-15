@@ -32,8 +32,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 4 commits contributed to the release.
- - 4 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 1 commit contributed to the release.
+ - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -43,10 +43,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
-    - New ([`35fee07`](https://github.com/tanyagalkina/release_poc/commit/35fee074316be083447d239de596d865fa314b20))
-    - Try again ([`bc168b2`](https://github.com/tanyagalkina/release_poc/commit/bc168b2c886afedeeb728a537089230d08637761))
-    - Generate update ([`5557e34`](https://github.com/tanyagalkina/release_poc/commit/5557e34919db8d15f199a110a58a035cad8a971b))
-    - Release ([`c6a8e9f`](https://github.com/tanyagalkina/release_poc/commit/c6a8e9fda22e2ef4eacfdaa9605a78f6c118bb8c))
+    - Feat! a new break ([`ae45eb9`](https://github.com/tanyagalkina/release_poc/commit/ae45eb92a8a177b405870eaf96591e9d021aaf15))
 </details>
 
 ## 0.1.1 (2023-03-15)
