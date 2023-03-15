@@ -21,7 +21,7 @@ fn main() {
 
 // clean comment, shoud look like this
 // why auto bumping does not work ?
-
+// one more smart-release try
 #[cfg(test)]
 mod tests {
     use super::*;
