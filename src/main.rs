@@ -23,6 +23,7 @@ fn main() {
 // why auto bumping does not work ?
 // one more smart-release try
 // no, this does not work
+// maybe we should not use git gui to generate releases, maybe thi sis what breaks the 
 #[cfg(test)]
 mod tests {
     use super::*;
