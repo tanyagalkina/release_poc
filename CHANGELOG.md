@@ -5,13 +5,37 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 0.2.0 (2023-03-15)
+## Unreleased
+
+### New Features (BREAKING)
+
+ - <csr-id-e209d2ba324057e8180d0d1241753f074a633784/> this is a feature
 
 ### Commit Statistics
 
 <csr-read-only-do-not-edit/>
 
  - 1 commit contributed to the release.
+ - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
+ - 0 issues like '(#ID)' were seen in commit messages
+
+### Commit Details
+
+<csr-read-only-do-not-edit/>
+
+<details><summary>view details</summary>
+
+ * **Uncategorized**
+    - This is a feature ([`e209d2b`](https://github.com/tanyagalkina/release_poc/commit/e209d2ba324057e8180d0d1241753f074a633784))
+</details>
+
+## 0.2.0 (2023-03-15)
+
+### Commit Statistics
+
+<csr-read-only-do-not-edit/>
+
+ - 2 commits contributed to the release.
  - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -22,6 +46,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Adjusting changelogs prior to release of release-me v0.2.0 ([`95b39fe`](https://github.com/tanyagalkina/release_poc/commit/95b39fe6baf35a47e48b2682bffcbdf990263d6e))
     - Some NOT conventinal commit ([`4c309a2`](https://github.com/tanyagalkina/release_poc/commit/4c309a2a76ed7a8a4d1e3ca86db3ad77b4f783b4))
 </details>
 
