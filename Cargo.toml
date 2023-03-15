@@ -1,0 +1,22 @@
+[package]
+name = "try-to-release-me"
+version = "0.2.0"
+edition = "2021"
+description = "Example Description"
+license = "MIT"
+documentation = "http://localhost:8080"
+homepage = "http://localhost:8080"
+repository = "http://localhost:8080"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+derive_more = { version = "0.99", features = ["error", "display"] }
+rayon = "1.6"
+
+[features]
+default = []
+integration-tests = []
+
+[dev-dependencies]
+assert_fs = "1.0.10" 
