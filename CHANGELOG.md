@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 0.2.0 (2023-03-15)
+
+### Commit Statistics
+
+<csr-read-only-do-not-edit/>
+
+ - 1 commit contributed to the release.
+ - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 0 issues like '(#ID)' were seen in commit messages
+
+### Commit Details
+
+<csr-read-only-do-not-edit/>
+
+<details><summary>view details</summary>
+
+ * **Uncategorized**
+    - Some NOT conventinal commit ([`4c309a2`](https://github.com/tanyagalkina/release_poc/commit/4c309a2a76ed7a8a4d1e3ca86db3ad77b4f783b4))
+</details>
+
 ## 0.1.2 (2023-03-15)
 
 <csr-id-2bb5eecac654accdb7ec6211656b6c4ac6de486a/>
@@ -32,8 +52,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 1 commit contributed to the release.
- - 0 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 8 commits contributed to the release.
+ - 5 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -43,7 +63,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Bump release-me v0.1.2 ([`f7af9ff`](https://github.com/tanyagalkina/release_poc/commit/f7af9ff56cc5735f9de45eacfb39d8350e78e53c))
     - Feat! a new break ([`ae45eb9`](https://github.com/tanyagalkina/release_poc/commit/ae45eb92a8a177b405870eaf96591e9d021aaf15))
+    - Bump release-me v0.1.2 ([`d1081df`](https://github.com/tanyagalkina/release_poc/commit/d1081dffceb7f182cc6cc768ebdebe909209ab71))
+    - New ([`35fee07`](https://github.com/tanyagalkina/release_poc/commit/35fee074316be083447d239de596d865fa314b20))
+    - Try again ([`bc168b2`](https://github.com/tanyagalkina/release_poc/commit/bc168b2c886afedeeb728a537089230d08637761))
+    - Generate update ([`5557e34`](https://github.com/tanyagalkina/release_poc/commit/5557e34919db8d15f199a110a58a035cad8a971b))
+    - Release ([`c6a8e9f`](https://github.com/tanyagalkina/release_poc/commit/c6a8e9fda22e2ef4eacfdaa9605a78f6c118bb8c))
+    - Release release-me version 0.1.2 ([`2bb5eec`](https://github.com/tanyagalkina/release_poc/commit/2bb5eecac654accdb7ec6211656b6c4ac6de486a))
 </details>
 
 ## 0.1.1 (2023-03-15)
