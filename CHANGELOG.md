@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## 0.2.0 (2023-03-15)
 
 ### Bug Fixes
 
@@ -13,43 +13,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### New Features (BREAKING)
 
- - <csr-id-7cb5a9946d32303604cba59e6d76b86c1e72949b/> conventional commit
-
-### Commit Statistics
-
-<csr-read-only-do-not-edit/>
-
- - 2 commits contributed to the release.
- - 2 commits were understood as [conventional](https://www.conventionalcommits.org).
- - 0 issues like '(#ID)' were seen in commit messages
-
-### Commit Details
-
-<csr-read-only-do-not-edit/>
-
-<details><summary>view details</summary>
-
- * **Uncategorized**
-    - Conventional commit ([`7cb5a99`](https://github.com/tanyagalkina/release_poc/commit/7cb5a9946d32303604cba59e6d76b86c1e72949b))
-    - Fix ([`136435e`](https://github.com/tanyagalkina/release_poc/commit/136435e9147b509c66641c02e50c37a1babe9450))
-</details>
-
-## 0.2.0 (2023-03-15)
-
-### New Features (BREAKING)
-
  - <csr-id-e209d2ba324057e8180d0d1241753f074a633784/> this is a feature
+ - <csr-id-7cb5a9946d32303604cba59e6d76b86c1e72949b/> conventional commit
 
 ### Documentation (BREAKING)
 
  - <csr-id-52080a77636696457826d0d2185f0deadb2cb94c/> add generate changelog
+ - <csr-id-b229d65d61dac14ce77843c7f6e1eefdd3b81b49/> very breaking
 
 ### Commit Statistics
 
 <csr-read-only-do-not-edit/>
 
- - 5 commits contributed to the release.
- - 2 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 8 commits contributed to the release.
+ - 5 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -59,6 +36,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Very breaking ([`b229d65`](https://github.com/tanyagalkina/release_poc/commit/b229d65d61dac14ce77843c7f6e1eefdd3b81b49))
+    - Conventional commit ([`7cb5a99`](https://github.com/tanyagalkina/release_poc/commit/7cb5a9946d32303604cba59e6d76b86c1e72949b))
+    - Fix ([`136435e`](https://github.com/tanyagalkina/release_poc/commit/136435e9147b509c66641c02e50c37a1babe9450))
     - Bump release-me v0.2.0 ([`7e555b0`](https://github.com/tanyagalkina/release_poc/commit/7e555b07352cbd730929cca0903ae65901a8f9c8))
     - Add generate changelog ([`52080a7`](https://github.com/tanyagalkina/release_poc/commit/52080a77636696457826d0d2185f0deadb2cb94c))
     - This is a feature ([`e209d2b`](https://github.com/tanyagalkina/release_poc/commit/e209d2ba324057e8180d0d1241753f074a633784))
