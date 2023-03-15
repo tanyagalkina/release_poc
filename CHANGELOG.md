@@ -5,6 +5,31 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+### New Features
+
+ - <csr-id-deede878198ccf0db345e33bf08de57c7fadb3a5/> clean comment
+   comment but a feature
+
+### Commit Statistics
+
+<csr-read-only-do-not-edit/>
+
+ - 1 commit contributed to the release.
+ - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
+ - 0 issues like '(#ID)' were seen in commit messages
+
+### Commit Details
+
+<csr-read-only-do-not-edit/>
+
+<details><summary>view details</summary>
+
+ * **Uncategorized**
+    - Clean comment ([`deede87`](https://github.com/tanyagalkina/release_poc/commit/deede878198ccf0db345e33bf08de57c7fadb3a5))
+</details>
+
 ## 0.1.1 (2023-03-15)
 
 ### Documentation
@@ -40,7 +65,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 7 commits contributed to the release.
+ - 8 commits contributed to the release.
  - 7 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -51,6 +76,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Bump release-me v0.1.1 ([`f2a0303`](https://github.com/tanyagalkina/release_poc/commit/f2a0303414ff683e4c3182efa50fdd5c1e9b2fa3))
     - Update Cargo.toml ([`456078a`](https://github.com/tanyagalkina/release_poc/commit/456078a1836f7e5aca4bde90fc02c72296f000d2))
     - First version ([`967ad20`](https://github.com/tanyagalkina/release_poc/commit/967ad2051c96767654a7ee08d6a05d49b03d686a))
     - Manual update ([`2c55e68`](https://github.com/tanyagalkina/release_poc/commit/2c55e6889890e1e2d67d9f253b593d10f4b95096))
