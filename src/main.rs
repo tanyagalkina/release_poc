@@ -19,10 +19,7 @@ fn main() {
     println!("+++ exited with {:?} +++", 42);
 }
 
-// resolves comment
-// feat add
-// why you cannot read the commit messages done by cz ? and cannot retrieve bump level ?
-// can you understand any of the messages at all ?
+// clean comment, shoud look like this
 #[cfg(test)]
 mod tests {
     use super::*;
