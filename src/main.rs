@@ -23,7 +23,8 @@ fn main() {
 // why auto bumping does not work ?
 // one more smart-release try
 // no, this does not work
-// maybe we should not use git gui to generate releases, maybe thi sis what breaks the 
+// maybe we should not use git gui to generate releases, maybe thi sis what breaks the
+// will release now with cargo release + generate CHANGELOG with cargo changelog 
 #[cfg(test)]
 mod tests {
     use super::*;
