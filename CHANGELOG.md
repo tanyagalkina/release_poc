@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Bug Fixes
+
+ - <csr-id-300b25d4b753e2b48b9bab7b29f21f3932221a52/> release by cargo release and generate separately
+
+### Documentation
+
+ - <csr-id-1eb7c2c1294cdd7013adc870c6d1778c35155774/> changelog
+
 ### New Features (BREAKING)
 
  - <csr-id-ab6eb6646f4a7ee86f19543e85978ab17c66b9e1/> try more
@@ -15,8 +23,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 1 commit contributed to the release.
- - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
+ - 3 commits contributed to the release.
+ - 3 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -26,6 +34,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Release by cargo release and generate separately ([`300b25d`](https://github.com/tanyagalkina/release_poc/commit/300b25d4b753e2b48b9bab7b29f21f3932221a52))
+    - Changelog ([`1eb7c2c`](https://github.com/tanyagalkina/release_poc/commit/1eb7c2c1294cdd7013adc870c6d1778c35155774))
     - Try more ([`ab6eb66`](https://github.com/tanyagalkina/release_poc/commit/ab6eb6646f4a7ee86f19543e85978ab17c66b9e1))
 </details>
 
