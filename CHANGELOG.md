@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## 0.2.2 (2023-03-16)
 
 ### New Features
 
@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Documentation
 
  - <csr-id-214fb4233853b1726816e711784d3d241beee0b0/> update changelog
+ - <csr-id-59e6299b6c78a456992b450e546649054931b41e/> changlog
 
 ### Bug Fixes (BREAKING)
 
@@ -23,8 +24,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 3 commits contributed to the release.
- - 3 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 4 commits contributed to the release.
+ - 4 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -34,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Changlog ([`59e6299`](https://github.com/tanyagalkina/release_poc/commit/59e6299b6c78a456992b450e546649054931b41e))
     - Update Cargo.toml ([`01e88ea`](https://github.com/tanyagalkina/release_poc/commit/01e88eab7945e01ca7a922bff87c5b126e4b7ae2))
     - Update changelog ([`214fb42`](https://github.com/tanyagalkina/release_poc/commit/214fb4233853b1726816e711784d3d241beee0b0))
     - Fix gh tool ([`61ded29`](https://github.com/tanyagalkina/release_poc/commit/61ded2900d26b76ece5be940edffc5e84c6b4613))
