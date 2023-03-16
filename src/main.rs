@@ -25,7 +25,8 @@ fn main() {
 // no, this does not work
 // maybe we should not use git gui to generate releases, maybe thi sis what breaks the
 // will release now with cargo release + generate CHANGELOG with cargo changelog
-// installed correct gh tool 
+// installed correct gh tool
+// after release with gh, maybe smart-release will retrive the correct version ? 
 #[cfg(test)]
 mod tests {
     use super::*;
@@ -37,7 +38,6 @@ mod tests {
         file.write_str("1234abcd").unwrap();
         assert_eq!(_read_file_rm_last(file.path()), "1234abc")
     }
-    AC85-5E5E
 
     // is cool ... glint ... commitizen 
     #[test]
