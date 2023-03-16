@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## 0.2.1 (2023-03-16)
 
 ### Bug Fixes
 
@@ -14,6 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Documentation
 
  - <csr-id-1eb7c2c1294cdd7013adc870c6d1778c35155774/> changelog
+ - <csr-id-e7707bf23552f9e24d93970aa83e9c6643c2ec80/> generate by cargo changelog7
+   need review
 
 ### New Features (BREAKING)
 
@@ -23,8 +25,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 3 commits contributed to the release.
- - 3 commits were understood as [conventional](https://www.conventionalcommits.org).
+ - 4 commits contributed to the release.
+ - 4 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -34,6 +36,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Generate by cargo changelog7 ([`e7707bf`](https://github.com/tanyagalkina/release_poc/commit/e7707bf23552f9e24d93970aa83e9c6643c2ec80))
     - Release by cargo release and generate separately ([`300b25d`](https://github.com/tanyagalkina/release_poc/commit/300b25d4b753e2b48b9bab7b29f21f3932221a52))
     - Changelog ([`1eb7c2c`](https://github.com/tanyagalkina/release_poc/commit/1eb7c2c1294cdd7013adc870c6d1778c35155774))
     - Try more ([`ab6eb66`](https://github.com/tanyagalkina/release_poc/commit/ab6eb6646f4a7ee86f19543e85978ab17c66b9e1))
