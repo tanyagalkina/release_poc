@@ -5,6 +5,30 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+### Bug Fixes (BREAKING)
+
+ - <csr-id-61ded2900d26b76ece5be940edffc5e84c6b4613/> fix gh tool
+
+### Commit Statistics
+
+<csr-read-only-do-not-edit/>
+
+ - 1 commit contributed to the release.
+ - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
+ - 0 issues like '(#ID)' were seen in commit messages
+
+### Commit Details
+
+<csr-read-only-do-not-edit/>
+
+<details><summary>view details</summary>
+
+ * **Uncategorized**
+    - Fix gh tool ([`61ded29`](https://github.com/tanyagalkina/release_poc/commit/61ded2900d26b76ece5be940edffc5e84c6b4613))
+</details>
+
 ## 0.2.1 (2023-03-16)
 
 ### Bug Fixes
@@ -25,7 +49,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 4 commits contributed to the release.
+ - 5 commits contributed to the release.
  - 4 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -36,6 +60,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Bump release-me v0.2.1 ([`9fadf6d`](https://github.com/tanyagalkina/release_poc/commit/9fadf6d1e9a1c07729dd412ffeb559cc36960bf5))
     - Generate by cargo changelog7 ([`e7707bf`](https://github.com/tanyagalkina/release_poc/commit/e7707bf23552f9e24d93970aa83e9c6643c2ec80))
     - Release by cargo release and generate separately ([`300b25d`](https://github.com/tanyagalkina/release_poc/commit/300b25d4b753e2b48b9bab7b29f21f3932221a52))
     - Changelog ([`1eb7c2c`](https://github.com/tanyagalkina/release_poc/commit/1eb7c2c1294cdd7013adc870c6d1778c35155774))
