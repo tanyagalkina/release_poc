@@ -5,7 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## 0.3.0 (2023-03-16)
+
+### Bug Fixes (BREAKING)
+
+ - <csr-id-391034567142593317269bda3ebdb95d79549227/> update version manually
+
+### Documentation
+
+ - <csr-id-60da5ce3bc6243efc4fb9394ebe81ae9a63e5cc9/> changelog
 
 ### New Features (BREAKING)
 
@@ -15,8 +23,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 1 commit contributed to the release.
- - 1 commit was understood as [conventional](https://www.conventionalcommits.org).
+ - 3 commits contributed to the release.
+ - 3 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
 ### Commit Details
@@ -26,6 +34,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Update version manually ([`3910345`](https://github.com/tanyagalkina/release_poc/commit/391034567142593317269bda3ebdb95d79549227))
+    - Changelog ([`60da5ce`](https://github.com/tanyagalkina/release_poc/commit/60da5ce3bc6243efc4fb9394ebe81ae9a63e5cc9))
     - MUST work now ([`218d9bc`](https://github.com/tanyagalkina/release_poc/commit/218d9bcc3e0cafa4d1c2735d300278a5929566c3))
 </details>
 
